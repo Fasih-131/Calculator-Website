@@ -5,7 +5,6 @@ This is a simple calculator website built using **JavaScript**, **HTML**, and **
 ## Features
 - User-friendly interface
 - Supports basic arithmetic operations
-- Responsive design for various screen sizes
 
 ## Technologies Used
 - **HTML**: For the structure of the webpage.
